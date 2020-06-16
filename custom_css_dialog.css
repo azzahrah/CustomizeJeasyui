@@ -1,0 +1,27 @@
+//Custom Warna Header Dialog 
+.panel-header.panel-header-noborder.window-header, 
+            .panel-header.panel-header-noborder.window-header > .panel-title{
+                background: #006666;
+                margin: 0px;
+                color:white;
+            }
+//Custom Background Close Button Dialog 
+            .panel-header.panel-header-noborder.window-header > .panel-tool{
+                background: #ff0033;
+                color:white;                
+            }
+            .panel-header.panel-header-noborder.window-header > .panel-tool-close{
+                margin: 0px;
+                color:white;
+                margin-top: 0px;
+            }
+//Customer Warna Button Pertama Dialog
+            .dialog-button a:first-child {
+                background: #006666;
+                color:white;
+            }
+//Customer Warna Button Pertama Dialog            
+            .dialog-button a:nth-child(2){
+                background: #ff0033;
+                color:white;
+            }
